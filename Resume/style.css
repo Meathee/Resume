@@ -12,13 +12,12 @@ body
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    border: 10px solid  rgb(21, 83, 124);
+    border: 10px;
     transition: 1s;
 }
 img.profile img:hover
 {
     transform: scale(1.2);
-    z-index: 2;
 }
 
 h1
